@@ -1,0 +1,17 @@
+body {
+    background-image: url('imgs/imagem-fundo1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    
+}
+
+
+h1 {
+    text-align: center;
+    box-shadow: rgb(202, 52, 52);
+}
+#box{
+
+box-shadow:1px 10px 25px rgb(0, 0, 0);
+}
